@@ -1,0 +1,4 @@
+district_id,min_green_fraction,max_loss_fraction,min_growth_fraction
+1,0.20,0.05,0.001
+2,0.25,0.03,0.001
+3,0.18,0.08,0.000
